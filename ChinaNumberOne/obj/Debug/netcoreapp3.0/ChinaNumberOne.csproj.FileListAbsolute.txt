@@ -1,0 +1,11 @@
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\bin\Debug\netcoreapp3.0\ChinaNumberOne.exe
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\bin\Debug\netcoreapp3.0\ChinaNumberOne.deps.json
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\bin\Debug\netcoreapp3.0\ChinaNumberOne.runtimeconfig.json
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\bin\Debug\netcoreapp3.0\ChinaNumberOne.runtimeconfig.dev.json
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\bin\Debug\netcoreapp3.0\ChinaNumberOne.dll
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\bin\Debug\netcoreapp3.0\ChinaNumberOne.pdb
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\obj\Debug\netcoreapp3.0\ChinaNumberOne.csprojAssemblyReference.cache
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\obj\Debug\netcoreapp3.0\ChinaNumberOne.AssemblyInfoInputs.cache
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\obj\Debug\netcoreapp3.0\ChinaNumberOne.AssemblyInfo.cs
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\obj\Debug\netcoreapp3.0\ChinaNumberOne.dll
+C:\Users\APA\source\repos\ChinaNumberOne\ChinaNumberOne\obj\Debug\netcoreapp3.0\ChinaNumberOne.pdb
